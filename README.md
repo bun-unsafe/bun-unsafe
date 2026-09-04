@@ -23,7 +23,7 @@ Through continuous learning, hands-on practice, and open-source contributions, I
 
 Keep learning. Keep practicing. Keep creating. Keep contributing.
 
-## Remarks
+## Naming Origin
 In the underlying language, 'unsafe' means bypassing security abstractions and directly touching memory and hardware; And Bun is constantly pushing the performance boundaries of JS. The name bun safe comes from my expectation for JavaScript to break free from runtime constraints and gain system level programming capabilities.
 
 As Atwood's Law states:
