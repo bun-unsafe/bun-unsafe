@@ -25,10 +25,14 @@ Keep learning. Keep practicing. Keep creating. Keep contributing.
 
 ## Naming Origin
 
-In underlying languages, 'unsafe' means bypassing security abstractions and directly touching memory and hardware, while Bun is constantly pushing the performance boundaries of JS. The name **bun-unsafe** comes from my expectation for JavaScript to break free from runtime constraints and gain system-level programming capabilities.
+## Naming Origin
+
+In systems programming, **“unsafe”** means going beyond high-level abstractions and interacting more directly with memory, native APIs, and hardware.
+
+The name **JavaScript-unsafe** reflects my expectation that JavaScript will continue breaking through runtime boundaries and gain more system-level capabilities.
 
 As Atwood's Law states:
 
-> "Any program that can be written in JavaScript will ultimately be written in JavaScript."
+> “Any application that can be written in JavaScript will eventually be written in JavaScript.”
 
-Even though JS still has limitations in terms of underlying performance and hardware manipulation, I believe that in the future, it will eventually cross boundaries and enter the field of system-level languages.
+I believe JavaScript will keep expanding beyond traditional scripting and move closer to systems programming.
