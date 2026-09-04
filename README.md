@@ -25,8 +25,6 @@ Keep learning. Keep practicing. Keep creating. Keep contributing.
 
 ## Naming Origin
 
-## Naming Origin
-
 In systems programming, **“unsafe”** means going beyond high-level abstractions and interacting more directly with memory, native APIs, and hardware.
 
 The name **JavaScript-unsafe** reflects my expectation that JavaScript will continue breaking through runtime boundaries and gain more system-level capabilities.
